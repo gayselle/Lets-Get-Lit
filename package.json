@@ -1,0 +1,15 @@
+{
+  "name": "starter-html-workspace",
+  "version": "1.0.0",
+  "description": "Minimal HTML workspace with lite-server dev script",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server --port 3000",
+    "dev": "lite-server --port 3000"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
